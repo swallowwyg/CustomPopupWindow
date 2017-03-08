@@ -5,7 +5,7 @@ A demo about custom popupWindow for Beginners
 # Demo shootcut
 
  
-![shootcut](https://github.com/swallowwyg/CustomPopupWindow/master/CustomPopupWindow/shootcut.png)
+![shootcut](https://github.com/swallowwyg/CustomPopupWindow/blob/master/shootcut.png)
 
 
 #Remarks
